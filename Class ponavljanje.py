@@ -6,7 +6,7 @@ di = ["designer","Filip"]
 
 
 def codea(a):
-    print(f"{a[1]} is writing code..." )
+    print(f"{a[1]} is writing code.  .." )
 
 
 
