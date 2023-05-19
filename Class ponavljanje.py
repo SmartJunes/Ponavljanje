@@ -22,7 +22,7 @@ class SofwareEngineer():
         self.salary = salary
 
     def code(self):
-        print(f"{self.name} is writing code..." )
+        print(f"{self.name} is writing code......" )
 
     def code_in_lenguage(self, language):
         print(f"{self.name} is writeing code in {language}..." )
